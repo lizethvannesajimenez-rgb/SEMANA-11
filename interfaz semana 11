@@ -1,0 +1,15 @@
+Pantalla Principal (Vista de Causas): 
+Una cuadrícula (grid) mostrando tarjetas 
+para cada causa disponible, cada una con un 
+título, descripción breve, imagen y el contador
+de apoyos actual
+
+.Formulario de Creación: Un botón
+destacado que abre un formulario modal 
+con campos para título, descripción detallada, 
+imagen y categoría de la nueva causa.
+
+Detalle de Causa: Al hacer clic en una tarjeta,
+se abre una vista detallada con la información 
+completa y un botón para apoyar la causa bien 
+visible.
